@@ -17,7 +17,7 @@ link](https://github.com/snapshot-labs/checkpoint-template/generate).
 - MySQL (v8.0)
 - Yarn
 
-> You can also use npm, just make sure to replace the subsequent 'yarn' commands with their npm equivalent.
+> You may also use npm, just make sure to replace the subsequent 'yarn' commands with their npm equivalent.
 
 After cloning this project, run the following command to install dependencies:
 
